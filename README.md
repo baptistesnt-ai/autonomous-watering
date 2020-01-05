@@ -1,0 +1,5 @@
+# autonomous-watering
+piloting a DC motor with arduino and DHT11
+
+Nowadays, 55% of the population lives in urban areas. One of the bad sides of living in cities is the lack of proximity with nature. It is sometimes difficult to grow your own plants and aromatic herbs when living in an apartment. For those to grow successfully, aromatic herbs need to be taken care of regularly. Therefore, urban people usually don’t grow their own aromatic herbs.
+To answer that problematic, we thought of an autonomous unit for your aromatic herbs, called “My Pot’”. Its size will be quite small, anyone can have one in the kitchen and grow its own aromatic herbs. We thought of 6 small compartments, so that the user can have different type of herbs. Ideally, it will be able to take care of your plants considering its type. Each aromatic herb type needs a specific amount of water and illumination to stay in a good shape. To do that, the system needs to have a relevant and complete database of the aromatic herbs. Then, it will also be able to water the plants by a precise amount. It will also be equipped with an indicator warning the user if the tray needs to be refilled.
